@@ -8,10 +8,10 @@ namespace COMP_3A.Assignment2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("This is a string");
-            Console.WriteLine("Ruben Villagrana");
-
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.White;
+         string firstName = "Ruben"
+             Console.ReadLine(firstName);
         }
     }
 }

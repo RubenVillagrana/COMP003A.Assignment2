@@ -2,6 +2,9 @@
  *  Course: COMP-003A
  *  Purpose: Replicate output
  */  
+
+
+
 namespace COMP_3A.Assignment2
 {
     internal class Program
@@ -12,6 +15,8 @@ namespace COMP_3A.Assignment2
             Console.ForegroundColor = ConsoleColor.White;
          string firstName = "Ruben"
              Console.ReadLine(firstName);
+         string middleName = "NA" +
+             Console.ReadLine(middleName)  
         }
     }
 }
